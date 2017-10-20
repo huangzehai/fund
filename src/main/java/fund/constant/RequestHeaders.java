@@ -16,7 +16,7 @@ public final class RequestHeaders {
         headers.put("Cache-Control","max-age=0");
         headers.put("Connection","keep-alive");
         headers.put("If-Modified-Since","Fri, 20 Oct 2017 13:38:21 GMT");
-//        headers.put("Host","m.wanzhoumo.com");
+//        headers.put("Host","");
         headers.put("Upgrade-Insecure-Requests","1");
         return headers;
     }
